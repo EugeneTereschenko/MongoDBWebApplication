@@ -1,0 +1,18 @@
+{
+  "firstName": "Retha",
+  "lastName": "Killen",
+  "email": "rkilleen0@mynewcode.com",
+  "gender": "FEMALE",
+  "address": {
+    "country": "Philippines",
+    "postCode": "PL90",
+    "city": "Manila"
+  },
+  "createdAt": "",
+  "favouriteSubjects": [
+    "maths",
+    "english",
+    "it"
+  ],
+  "totalSpentInBooks": 0.00
+}
